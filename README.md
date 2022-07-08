@@ -8,4 +8,4 @@ The **userRegistration** was the first c++ project that I decided to do, mostly 
 The **GuiCalculator** was my first gui project I had done, and I had used wxwidgets. I made this a few months into my programming journey. I am still working on it from time to time, trying to improve it where I can.
 
 ## Console RPG
-The **ConsoleRPG** was a tutorial-based project that I followed along with. I have done many of these early one until I found out they don't lend to proper learning, so I scrapped most of them, but this one I decided to keep.
+The **ConsoleRPG** was a tutorial-based project that I followed along with. I have done many of these early one until I found out they don't lend to proper learning, so I scrapped most of them, but this one I decided to keep. Most functionality not implemented, but menu-navigation is there.
